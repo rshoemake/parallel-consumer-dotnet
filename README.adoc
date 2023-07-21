@@ -22,7 +22,7 @@ TIP:: Editing template file
 endif::[]
 
 
-= Confluent Parallel Consumer
+= Kafka .Net Parallel Consumer
 :icons:
 :toc: macro
 :toclevels: 3
